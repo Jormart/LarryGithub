@@ -3,4 +3,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Jorge Martínez**, Git lover
+
+**Jorge Martínez**, Git & Larry Plotter Lover
+
